@@ -1,0 +1,4 @@
+#Ignore this files because they are static 
+img/
+*.txt
+.DS_Store
